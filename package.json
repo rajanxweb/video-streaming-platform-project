@@ -1,0 +1,29 @@
+{
+  "name": "video-streaming-project",
+  "version": "1.0.0",
+  "description": "building my first backend project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanxweb/video-streaming-platform-project.git"
+  },
+  "keywords": [
+    "backend",
+    "vide-streaming",
+    "express.js"
+  ],
+  "author": "Rajan Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanxweb/video-streaming-platform-project/issues"
+  },
+  "homepage": "https://github.com/rajanxweb/video-streaming-platform-project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.6"
+  }
+}
